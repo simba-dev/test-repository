@@ -1,1 +1,2 @@
 This is a txt file created from the computer directory. Modifying now from master branch.
+This is a txt file created from the computer directory. Txt file modified.
